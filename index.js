@@ -1,3 +1,10 @@
+const html = document.querySelector('html')
+const checkbox = document.getElementById('theme');
+
+    checkbox.addEventListener('change', () => {
+        html.classList.toggle('dark-mode');
+    });
+
 const Modal = {
     open(){
         // Abrir modal
