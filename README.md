@@ -28,6 +28,13 @@
 
 <img width="902" alt="DevFinances" src="https://user-images.githubusercontent.com/60220406/107148450-d737bb80-6931-11eb-83d5-e515927bb76e.png">
 
+<br>
+
+### <i>Modo Dark</i> 
+
+<br>
+
+<img width="902" alt="DevFinancesModDark" src="https://uploaddeimagens.com.br/images/004/519/841/full/modo_dark.png?1687767762">
 
 <br>
 
