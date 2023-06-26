@@ -22,7 +22,27 @@
 
 <br>
 
+#### <strong>Desktop</strong>
+
+<br>
+
 <img width="902" alt="DevFinances" src="https://user-images.githubusercontent.com/60220406/107148450-d737bb80-6931-11eb-83d5-e515927bb76e.png">
+
+
+<br>
+
+#### <strong>Mobile</strong>
+<br>
+
+<img width="300" alt="mobile home" src="https://uploaddeimagens.com.br/images/004/519/838/full/dev_finances.png?1687767542">
+
+<br>
+
+<img width="300" alt="mobile home" src="https://uploaddeimagens.com.br/images/004/519/839/full/modal_dev.png?1687767619">
+
+<br>
+
+<img width="300" alt="mobile home" src="https://uploaddeimagens.com.br/images/004/519/840/full/modal_dark.png?1687767651">
 
 <br>
 
