@@ -118,14 +118,14 @@ Um breve resumo abaixo como fazer cada etapa :
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/dev.finance-_Discovery_RocketSeat.svg?style=for-the-badge
-[contributors-url]: https://github.com/HMontarroyos/dev.finance-_Discovery_RocketSeat/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/dev.finance-_Discovery_RocketSeat.svg?style=for-the-badge
-[forks-url]: https://github.com/HMontarroyos/dev.finance-_Discovery_RocketSeat/fork
-[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/dev.finance-_Discovery_RocketSeat.svg?style=for-the-badge
-[stars-url]: https://github.com/HMontarroyos/dev.finance-_Discovery_RocketSeat/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/dev.finance-_Discovery_RocketSeat.svg?style=for-the-badge
-[issues-url]: https://github.com/HMontarroyos/dev.finance-_Discovery_RocketSeat/issues
+[contributors-shield]: https://img.shields.io/github/contributors/HMontarroyos/dev_finance.svg?style=for-the-badge
+[contributors-url]: https://github.com/HMontarroyos/dev_finance/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HMontarroyos/dev_finance.svg?style=for-the-badge
+[forks-url]: https://github.com/HMontarroyos/dev_finance/fork
+[stars-shield]: https://img.shields.io/github/stars/HMontarroyos/dev_finance.svg?style=for-the-badge
+[stars-url]: https://github.com/HMontarroyos/dev_finance/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HMontarroyos/dev_finance.svg?style=for-the-badge
+[issues-url]: https://github.com/HMontarroyos/dev_finance/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/hebertmontarroyos-developer/
 
